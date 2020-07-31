@@ -1,6 +1,7 @@
 # Amazon-Sagemaker-autoML-bank-marketing-offer
 
 Input Data: bank-additional.csv
+
 Notebook Files: Open data exploration notebook, Open candidate generation notebook
 
 Amazon Sagemaker autoML steps:
