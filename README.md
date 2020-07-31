@@ -1,1 +1,1 @@
-# Amazon-Sagemaker-autoML-bank-marketing-role-data
+# Amazon-Sagemaker-autoML-bank-marketing-offer
